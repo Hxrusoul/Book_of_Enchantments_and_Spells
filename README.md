@@ -1,6 +1,6 @@
-# SHILLING SPELLS FROM A TO Z
+# BOOD OF ENCHANTMENTS AND SPELLS
 
-SHILLING SPELLS FROM A TO Z es un aplicación que te pertmite almacenar todos los hechizos de Harry Potter que desees obtener para memorizar.
+**Book of Enchantments and Spells** es un aplicación que te pertmite almacenar todos los hechizos de Harry Potter que desees obtener para memorizar.
 
 ## REQUIREMENTS
 
